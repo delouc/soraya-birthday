@@ -1,0 +1,8 @@
+Add these five files to this folder:
+her.jpg
+memory1.jpg
+memory2.jpg
+memory3.jpg
+puzzle.jpg
+
+Use exactly these names, or edit the paths in script.js.
